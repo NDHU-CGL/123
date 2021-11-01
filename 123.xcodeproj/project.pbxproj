@@ -13,6 +13,7 @@
 		4E7786AF272FD3A8005AB484 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4E7786AE272FD3A8005AB484 /* Assets.xcassets */; };
 		4E7786B2272FD3A8005AB484 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4E7786B0272FD3A8005AB484 /* LaunchScreen.storyboard */; };
 		4E7786C0272FD45B005AB484 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E7786BF272FD45B005AB484 /* TableViewController.swift */; };
+		4E7786C3272FDDDB005AB484 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E7786C2272FDDDB005AB484 /* TableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		4E7786B1272FD3A8005AB484 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4E7786B3272FD3A8005AB484 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4E7786BF272FD45B005AB484 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		4E7786C2272FDDDB005AB484 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				4E7786B0272FD3A8005AB484 /* LaunchScreen.storyboard */,
 				4E7786B3272FD3A8005AB484 /* Info.plist */,
 				4E7786BF272FD45B005AB484 /* TableViewController.swift */,
+				4E7786C2272FDDDB005AB484 /* TableViewCell.swift */,
 			);
 			path = 123;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4E7786A6272FD3A8005AB484 /* AppDelegate.swift in Sources */,
+				4E7786C3272FDDDB005AB484 /* TableViewCell.swift in Sources */,
 				4E7786C0272FD45B005AB484 /* TableViewController.swift in Sources */,
 				4E7786A8272FD3A8005AB484 /* SceneDelegate.swift in Sources */,
 			);
